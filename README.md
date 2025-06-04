@@ -2,13 +2,13 @@
 This project demonstrates unsupervised machine learning using clustering algorithms. It involves grouping data points based on similarity without predefined labels. Techniques like K-Means,K-Medoids,Hierarchical with Single and Complete are applied to visualize and interpret patterns within the dataset. 
 
 🧠 Objective
-Analyze behavioral data like Instagram visit scores and online spending ranks to cluster users into groups such as:
+-Analyze behavioral data like Instagram visit scores and online spending ranks to cluster users into groups such as:
 
-High spenders influenced by social media
+-High spenders influenced by social media
 
-Casual users with average or low spend
+-Casual users with average or low spend
 
-Passive users not influenced by Instagram
+-Passive users are not influenced by Instagram
 
 🛠️ Clustering Algorithms Used
 K-Means Clustering – Partitions data into K groups by minimizing the variance within each cluster.
